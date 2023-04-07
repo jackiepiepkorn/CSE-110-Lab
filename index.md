@@ -44,7 +44,7 @@ These are the programming languages I've learned at UCSD:
 - [x] C
 
 ## About My Personal Life
-#### Outside of the computer science world, I have many hobbies that I *definitely* talk
+Outside of the computer science world, I have many hobbies that I *definitely* talk
 way too much about. One hobby I've had for many years is learning langauges. I really
 enjoy using the [Duolingo](https://duolingo.com) app and I've had it downloaded since 2013. Although I've learned
 many languages on Duolingo, I have completed only one course in its entirety so far, which was sparked by my friend's suggestion:
@@ -63,6 +63,6 @@ Something I've been up to recently is learning guitar. I'm really into music, in
 3. My Own Summer (Shove It) by Deftones
 4. Demolition Lovers by My Chemical Romance
 
-One of my favorite quotes about learning new things is:
+One of my favorite quotes about [learning new things](https://github.com/jackiepiepkorn/CSE-110-Lab/blob/main/index.md#about-my-personal-life) is:
 > “The beautiful thing about learning is that nobody can take it away from you.”
 ― B.B. King
