@@ -69,11 +69,11 @@ Something I've been up to recently is learning guitar. I'm really into music, in
 3. My Own Summer (Shove It) by Deftones
 4. Demolition Lovers by My Chemical Romance
 
-One of my favorite quotes about [learning new things](https://github.com/jackiepiepkorn/CSE-110-Lab/blob/main/index.md#learning-languages) is:
+One of my favorite quotes about [learning new things](https://jackiepiepkorn.github.io/CSE-110-Lab/#learning-languages) is:
 > “The beautiful thing about learning is that nobody can take it away from you.”
 ― B.B. King
 
-Learning is a really cool thing, and I'm glad I get to [help others learn](https://github.com/jackiepiepkorn/CSE-110-Lab/blob/main/index.md#acm-ai) too
+Learning is a really cool thing, and I'm glad I get to [help others learn](https://jackiepiepkorn.github.io/CSE-110-Lab/#acm-ai) too
 
 What did you like about this website?
 - [ ] Formatting
