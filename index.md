@@ -74,3 +74,9 @@ One of my favorite quotes about [learning new things](https://github.com/jackiep
 ― B.B. King
 
 Learning is a really cool thing, and I'm glad I get to [help others learn](https://github.com/jackiepiepkorn/CSE-110-Lab/blob/main/index.md#acm-ai) too
+
+What did you like about this website?
+- [ ] Formatting
+- [ ] Variety
+- [ ] Thoroughness
+- [ ] Humor
