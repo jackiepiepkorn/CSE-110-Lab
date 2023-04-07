@@ -2,7 +2,7 @@
 
 ### My name is Jackie Piepkorn and I am a Computer Science student at UC San Diego.
 
-### About My Academic & Professional Life
+## About My Academic & Professional Life
 I am involved in an on-campus student organization called [ACM AI](https://ai.acmucsd.com/), where we teach
 our fellow university students about AI and host other AI related events and competitions.
 I am currently an Event Lead, which means my responsibilities consist of the following:
@@ -43,8 +43,8 @@ These are the programming languages I've learned at UCSD:
 - [ ] Go
 - [x] C
 
-### About My Personal Life
-Outside of the computer science world, I have many hobbies that I *definitely* talk
+## About My Personal Life
+#### Outside of the computer science world, I have many hobbies that I *definitely* talk
 way too much about. One hobby I've had for many years is learning langauges. I really
 enjoy using the [Duolingo](https://duolingo.com) app and I've had it downloaded since 2013. Although I've learned
 many languages on Duolingo, I have completed only one course in its entirety so far, which was sparked by my friend's suggestion:
