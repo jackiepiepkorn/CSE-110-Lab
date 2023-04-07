@@ -54,7 +54,7 @@ enjoy using the [Duolingo](https://duolingo.com) app and I've had it downloaded 
 many languages on Duolingo, I have completed only one course in its entirety so far, which was sparked by my friend's suggestion:
 > "You should learn Swahili"
 
-It was a really interesting language to learn so I took an introductory course at UC Berkeley
+It was a really interesting language to learn so I took an introductory Swahili course at UC Berkeley
 because I really wanted to immerse myself in the language. These days on Duolingo, I've been brushing up on Spanish.
 
 #### Hiking
