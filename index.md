@@ -3,6 +3,7 @@
 ### My name is Jackie Piepkorn and I am a Computer Science student at UC San Diego.
 
 ## About My Academic & Professional Life
+#### ACM AI
 I am involved in an on-campus student organization called [ACM AI](https://ai.acmucsd.com/), where we teach
 our fellow university students about AI and host other AI related events and competitions.
 I am currently an Event Lead, which means my responsibilities consist of the following:
@@ -14,10 +15,12 @@ I've been a part of this org for almost 1.5 years now and it's been a great lear
 
 ![A picture of our board :)](https://i.imgur.com/oX4Fu5H.png)
 
+#### Internships
 In terms of software engineering experience, I worked on simulating unmanned underwater
 vehicle navigation during my internship in 2020 and I plan to work on the intersection of
 SE and AI during my upcoming internship this summer.
 
+#### Academics
 My favorite programming language is Java. It's the first language I learned theoretical concepts in,
 which was through AP Computer Science A. I also really like Java's syntax and how "complete" it feels, which is why I honestly prefer it over Python.
 
@@ -69,3 +72,5 @@ Something I've been up to recently is learning guitar. I'm really into music, in
 One of my favorite quotes about [learning new things](https://github.com/jackiepiepkorn/CSE-110-Lab/blob/main/index.md#learning-languages) is:
 > “The beautiful thing about learning is that nobody can take it away from you.”
 ― B.B. King
+
+Learning is a really cool thing, and I'm glad I get to [help others learn](https://github.com/jackiepiepkorn/CSE-110-Lab/blob/main/index.md#acm-ai) too
