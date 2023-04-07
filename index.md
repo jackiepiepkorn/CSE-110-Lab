@@ -21,7 +21,7 @@ SE and AI during my upcoming internship this summer.
 My favorite programming language is Java. It's the first language I learned theoretical concepts in,
 which was through AP Computer Science A. I also really like Java's syntax and how "complete" it feels, which is why I honestly prefer it over Python.
 
-I mean, look at printing in both languages
+I mean, look at printing in both languages:
 
 Python
 ```
